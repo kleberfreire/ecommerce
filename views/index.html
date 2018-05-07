@@ -232,14 +232,14 @@
             <div class="col-md-12">
                 <div class="brand-wrapper">
                     <div class="brand-list">
-                        <img src="/views/res/SITE/img/brand1.png" alt="">
-                        <img src="/views/res/SITE/img/brand2.png" alt="">
-                        <img src="/views/res/SITE/img/brand3.png" alt="">
-                        <img src="/views/res/SITE/img/brand4.png" alt="">
-                        <img src="/views/res/SITE/img/brand5.png" alt="">
-                        <img src="/views/res/SITE/img/brand6.png" alt="">
-                        <img src="/views/res/SITE/img/brand1.png" alt="">
-                        <img src="/views/res/SITE/img/brand2.png" alt="">
+                        <img src="/res/SITE/img/brand1.png" alt="">
+                        <img src="/res/SITE/img/brand2.png" alt="">
+                        <img src="/res/SITE/img/brand3.png" alt="">
+                        <img src="/res/SITE/img/brand4.png" alt="">
+                        <img src="/res/SITE/img/brand5.png" alt="">
+                        <img src="/res/SITE/img/brand6.png" alt="">
+                        <img src="/res/SITE/img/brand1.png" alt="">
+                        <img src="/res/SITE/img/brand2.png" alt="">
                     </div>
                 </div>
             </div>

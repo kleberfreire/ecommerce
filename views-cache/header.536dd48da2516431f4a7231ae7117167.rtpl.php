@@ -16,15 +16,15 @@
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="/views/res/SITE/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/res/SITE/css/bootstrap.min.css">
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="/views/res/SITE/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/res/SITE/css/font-awesome.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/views/res/SITE/css/owl.carousel.css">
-    <link rel="stylesheet" href="/views/res/SITE/css/style.css">
-    <link rel="stylesheet" href="/views/res/SITE/css/responsive.css">
+    <link rel="stylesheet" href="/res/SITE/css/owl.carousel.css">
+    <link rel="stylesheet" href="/res/SITE/css/style.css">
+    <link rel="stylesheet" href="/res/SITE/css/responsive.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -114,7 +114,7 @@
                     <div class="logo">
                         <h1>
                             <a href="#">
-                                <img src="/views/res/SITE/img/logo.png">
+                                <img src="/res/SITE/img/logo.png">
                             </a>
                         </h1>
                     </div>

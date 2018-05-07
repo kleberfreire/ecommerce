@@ -114,14 +114,14 @@
 <script src="/views/res/SITE/js/jquery.sticky.js"></script>
 
 <!-- jQuery easing -->
-<script src="/views/res/SITE/js/jquery.easing.1.3.min.js"></script>
+<script src="/res/SITE/js/jquery.easing.1.3.min.js"></script>
 
 <!-- Main Script -->
-<script src="/views/res/SITE/js/main.js"></script>
+<script src="/res/SITE/js/main.js"></script>
 
 <!-- Slider -->
-<script type="text/javascript" src="/views/res/SITE/js/bxslider.min.js"></script>
-<script type="text/javascript" src="/views/res/SITE/js/script.slider.js"></script>
+<script type="text/javascript" src="/res/SITE/js/bxslider.min.js"></script>
+<script type="text/javascript" src="/res/SITE/js/script.slider.js"></script>
 </body>
 
 </html>
