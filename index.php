@@ -52,6 +52,7 @@ $app->get('/admin/logout', function(){
 
 });
 
+$app->get()
 
 $app->run();
 
